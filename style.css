@@ -1,6 +1,13 @@
 body {
-    background-color: rgb(223, 215, 205);
+    background-color: #e7cfae;
 }
 .navbar {
-    background-color:rgb(28, 5, 49) !important;
+    background-color:#422223 !important;
+    padding: 10px;
+}
+.headshot {
+    margin-bottom: 30px;
+}
+.about-me {
+    margin-bottom: 20px;
 }
